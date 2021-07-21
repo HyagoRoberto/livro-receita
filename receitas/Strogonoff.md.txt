@@ -1,0 +1,10 @@
+Abaio todos os comandos serão formatados, mediante o programa própio utilizado
+
+#Strogonoff de frango
+**Negrito** _intalico_
+
+
+### Ingredientes
+
+ - 
+(espaço - espaço) seguir com Enter manterá a config.
